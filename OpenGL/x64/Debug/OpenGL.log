@@ -1,0 +1,48 @@
+﻿  EarthScene.cpp
+D:\Uni\year 3\3D Texturing Tool - Copy\OpenGL\EarthScene.cpp(245,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni\year 3\3D Texturing Tool - Copy\OpenGL\EarthScene.cpp(254,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Source.cpp
+D:\Uni\year 3\3D Texturing Tool - Copy\OpenGL\Source.cpp(77,9): warning C4101: 'cubeShader': unreferenced local variable
+  TextureWrapper.cpp
+D:\Uni\year 3\3D Texturing Tool - Copy\OpenGL\TextureWrapper.cpp(19,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Uni\year 3\3D Texturing Tool - Copy\OpenGL\TextureWrapper.cpp(24,76): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Uni\year 3\3D Texturing Tool - Copy\OpenGL\TextureWrapper.cpp(25,76): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Uni\year 3\3D Texturing Tool - Copy\OpenGL\TextureWrapper.cpp(29,76): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Uni\year 3\3D Texturing Tool - Copy\OpenGL\TextureWrapper.cpp(30,76): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Uni\year 3\3D Texturing Tool - Copy\OpenGL\TextureWrapper.cpp(34,76): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Uni\year 3\3D Texturing Tool - Copy\OpenGL\TextureWrapper.cpp(35,76): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Uni\year 3\3D Texturing Tool - Copy\OpenGL\TextureWrapper.cpp(46,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  glad.c
+  OpenGL.vcxproj -> D:\Uni\year 3\3D Texturing Tool - Copy\x64\Debug\OpenGL.exe
